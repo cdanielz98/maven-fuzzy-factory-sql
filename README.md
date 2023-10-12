@@ -81,7 +81,9 @@ You will analyse and optimise marketing channels, measure and test website conve
 <h3><a href="#">&#x200B;</a>* LIFT= 8.486 USD per billing page view</h3>
 <h3><a href="#">&#x200B;</a>*  *IMPACT OF BILLING TEST IN LAST MONTH: $10123.80*</h3>
 
+
+
 <h2><a href="#">&#x200B;</a>Part 2</h2>
 <h2><a href="#">&#x200B;</a>The Situation</h2>
-<h3><a href="#">&#x200B;</a>(Dated: 20.03.2015)
-Cindy is close to securing Maven Fuzzy Factory's next round of funding, and she needs your help to tell a compelling story to investors. You'll need to pull the relevant data, and help your CEO craft a story about a data-driven company that has been producing rapid growth.</h3>
+<h3><a href="#">&#x200B;</a>(Dated: 20.03.2015)</h3>
+<h3><a href="#">&#x200B;</a>Cindy is close to securing Maven Fuzzy Factory's next round of funding, and she needs your help to tell a compelling story to investors. You'll need to pull the relevant data, and help your CEO craft a story about a data-driven company that has been producing rapid growth.</h3>
