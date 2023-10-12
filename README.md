@@ -55,21 +55,21 @@ You will analyse and optimise marketing channels, measure and test website conve
 ![6 2](https://github.com/cdanielz98/maven-fuzzy-factory-sql/assets/135237144/fa792353-936a-41d1-b77d-ff6b976ce79f)
 
 
->22972 sessions since the test ended<br>
->22972 * 00.0088 = roughly 202 extra orders since the test ended on 2012-07-28<br>
->which is almost a difference of 4 months so:<br>
->202/4 = about 50 extra orders a month since before test
+>* 22972 sessions since the test ended<br>
+>* 22972 * 00.0088 = roughly 202 extra orders since the test ended on 2012-07-28<br>
+>* which is almost a difference of 4 months so:<br>
+>* 202/4 = about 50 extra orders a month since before test
 <br>
 <br>
 7. For the landing page test you analyzed previously, it would be great to show a full conversion frunnel from each of the two pages to orders. You can use the same time period you analyzed last time (Jun 19 - Jul 28).
 
 ![7](https://github.com/cdanielz98/maven-fuzzy-factory-sql/assets/135237144/1291ba14-8ab6-4828-8901-f815634afa15)
 
->'thankyou_clickthrough_rate' corresponds to the rate of users that clicked on to the 'thank-you-for-your-order-page' from the previous page (billing page).<br>
->thankyou_clickthrough rate for:<br>
->/home = 0.4286<br>
->/lander-1 = 0.4772<br>
->There were 5% more completed orders in the 'lander-1' condition compared to the '/home' condition.
+>* 'thankyou_clickthrough_rate' corresponds to the rate of users that clicked on to the 'thank-you-for-your-order-page' from the previous page (billing page).<br>
+>* thankyou_clickthrough rate for:<br>
+>* /home = 0.4286<br>
+>* /lander-1 = 0.4772<br>
+>* There were 5% more completed orders in the 'lander-1' condition compared to the '/home' condition.
 <br>
 <br>
 
@@ -77,16 +77,16 @@ You will analyse and optimise marketing channels, measure and test website conve
 
 ![8](https://github.com/cdanielz98/maven-fuzzy-factory-sql/assets/135237144/581cee23-fb57-40b6-9b55-91b3a2a2ac44)
 
->'/billing-2' refers to the new billing page being tested, and '/billing' refers to the original billing page<br>
->revenue_per_session for billing = 22.826 USD<br>
->revenue_per_session for billing-2 = 31.311 USD<br>
->*LIFT= 8.486 USD per billing page view*
+>* '/billing-2' refers to the new billing page being tested, and '/billing' refers to the original billing page<br>
+>* revenue_per_session for billing = 22.826 USD<br>
+>* revenue_per_session for billing-2 = 31.311 USD<br>
+>* *LIFT= 8.486 USD per billing page view*
 
 ![8 2](https://github.com/cdanielz98/maven-fuzzy-factory-sql/assets/135237144/4e50aec4-b50e-4c65-a4e1-d94025ed9ce1)
 
->1193 sessions in last month<br>
->LIFT= 8.486 USD per billing page view<br>
->*IMPACT OF BILLING TEST IN LAST MONTH: $10123.80*
+* >1193 sessions in last month<br>
+* >LIFT= 8.486 USD per billing page view<br>
+* >*IMPACT OF BILLING TEST IN LAST MONTH: $10123.80*
 
 
 
