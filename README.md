@@ -11,6 +11,7 @@ You will analyse and optimise marketing channels, measure and test website conve
 ### **1. Gsearch seems to the the biggest driver of our business. Could you pull monthly trends for gsearch sessions and orders so that we can showcase the growth there?**
 
 ![test](https://github.com/cdanielz98/maven-fuzzy-factory-sql/assets/135237144/7ec26085-5c1e-43b5-af47-fa1557c52e2d)
+<br />
 ### Both sessions and orders have been increasing monthly.
 
 
@@ -63,10 +64,10 @@ You will analyse and optimise marketing channels, measure and test website conve
 
 ![8](https://github.com/cdanielz98/maven-fuzzy-factory-sql/assets/135237144/581cee23-fb57-40b6-9b55-91b3a2a2ac44)
 
-*'/billing-2' refers to the new billing page being tested, and '/billing' refers to the original billing page
-*revenue_per_session for billing = 22.826 USD
-*revenue_per_session for billing-2 = 31.311 USD
-**LIFT= 8.486 USD per billing page view*
+* '/billing-2' refers to the new billing page being tested, and '/billing' refers to the original billing page
+* revenue_per_session for billing = 22.826 USD
+* revenue_per_session for billing-2 = 31.311 USD
+* *LIFT= 8.486 USD per billing page view*
 
 ![8 2](https://github.com/cdanielz98/maven-fuzzy-factory-sql/assets/135237144/4e50aec4-b50e-4c65-a4e1-d94025ed9ce1)
 
