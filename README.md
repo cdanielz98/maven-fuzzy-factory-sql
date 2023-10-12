@@ -3,11 +3,11 @@ A course-based project split into two parts.
 
 <h2><a href="#">&#x200B;</a>The Situation</h2>
 You've just been hired as an eCommerce Database Analyst for Maven Fuzzy Factory, an online retailer which has just launched their first product.
-## The  Brief
+<h2><a href="#">&#x200B;</a>The Brief</h2>
 As a member of the startup team, you will work with the CEO, the Marketing Director, and the Website Manager to help steer the business.
 You will analyse and optimise marketing channels, measure and test website conversion performance, and use data to understand the impact if new product launches.
 
-## Part 1
+<h2><a href="#">&#x200B;</a>Part 1</h2>
 ### **1. Gsearch seems to the the biggest driver of our business. Could you pull monthly trends for gsearch sessions and orders so that we can showcase the growth there?**
 
 ![test](https://github.com/cdanielz98/maven-fuzzy-factory-sql/assets/135237144/7ec26085-5c1e-43b5-af47-fa1557c52e2d)
