@@ -8,7 +8,7 @@ As a member of the startup team, you will work with the CEO, the Marketing Direc
 You will analyse and optimise marketing channels, measure and test website conversion performance, and use data to understand the impact if new product launches.
 
 ## Part 1
-1. Gsearch seems to the the biggest driver of our business. Could you pull monthly trends for gsearch sessions and orders so that we can showcase the growth there?
+*1. Gsearch seems to the the biggest driver of our business. Could you pull monthly trends for gsearch sessions and orders so that we can showcase the growth there?*
 ![test](https://github.com/cdanielz98/maven-fuzzy-factory-sql/assets/135237144/7ec26085-5c1e-43b5-af47-fa1557c52e2d)
 Both sessions and orders have been increasing monthly.
 
@@ -21,3 +21,4 @@ Nonbrand campaigns are bringing in significantly more sessions and orders than b
 There were far more desktop sessions than mobile sessions, and number of sessions from both device types increased monthly.
 
 4. I'm worried that one of our more pessimistic board members may be concerned about the large % traffic from Gsearch. Can you pull monthly trends for Gsearch, alongside monthly trends for each other channel?
+![4](https://github.com/cdanielz98/maven-fuzzy-factory-sql/assets/135237144/355cc9ea-46c3-4e12-9cfa-f12371a108d4)
