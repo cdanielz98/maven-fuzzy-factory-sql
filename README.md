@@ -10,11 +10,10 @@ You will analyse and optimise marketing channels, measure and test website conve
 <h2><a href="#">&#x200B;</a>Part 1</h2>
 
 <h3><a href="#">&#x200B;</a>1. Gsearch seems to the the biggest driver of our business. Could you pull monthly trends for gsearch sessions and orders so that we can showcase the growth there?
-<br>
-<br>
+
 ![test](https://github.com/cdanielz98/maven-fuzzy-factory-sql/assets/135237144/7ec26085-5c1e-43b5-af47-fa1557c52e2d)
 <br>
-  <br>
+<br>
 <h3><a href="#">&#x200B;</a>Both sessions and orders have been increasing monthly.</h3>
 
 
