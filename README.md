@@ -15,7 +15,7 @@ You will analyse and optimise marketing channels, measure and test website conve
 >Both sessions and orders have been increasing monthly.
 <br>
 <br>
-<h3><a href="#">&#x200B;</a> 2. Next, it would be great to see a similar monthly trend for Gsearch, but this time splitting out nonbrand and brand campaigns separately. I am wondering if brand is picking up at all. If so, this is a good story to tell.</h3>
+2. Next, it would be great to see a similar monthly trend for Gsearch, but this time splitting out nonbrand and brand campaigns separately. I am wondering if brand is picking up at all. If so, this is a good story to tell.
 
 ![2](https://github.com/cdanielz98/maven-fuzzy-factory-sql/assets/135237144/fb1bb1be-485d-4f04-b246-7ea1dd217711)
 
