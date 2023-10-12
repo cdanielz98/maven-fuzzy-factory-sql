@@ -1,5 +1,4 @@
-<h1><a href="#">&#x200B;</a>Heading</h1> wgjhgwh
-# SQL Project- Maven Fuzzy Factory
+<h1><a href="#">&#x200B;</a>SQL Project- Maven Fuzzy Factory</h1>
 A course-based project split into two parts.
 
 ## The Situation
