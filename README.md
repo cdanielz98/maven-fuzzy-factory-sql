@@ -1,7 +1,7 @@
 <h1><a href="#">&#x200B;</a>SQL Project- Maven Fuzzy Factory</h1>
 A course-based project split into two parts.
 
-## The Situation
+<h2><a href="#">&#x200B;</a>The Situation</h2>
 You've just been hired as an eCommerce Database Analyst for Maven Fuzzy Factory, an online retailer which has just launched their first product.
 ## The  Brief
 As a member of the startup team, you will work with the CEO, the Marketing Director, and the Website Manager to help steer the business.
